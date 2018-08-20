@@ -1,4 +1,6 @@
 # Lista de Jogos
 
-* [Jogo preferido 1]
-* [jogo preferido 2]
+* Fifa 2019
+* God Of War
+* Magic The Gathering
+
